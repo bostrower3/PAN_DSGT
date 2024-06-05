@@ -1,1 +1,1 @@
-# PAN_DSGT
+# pan-2024
